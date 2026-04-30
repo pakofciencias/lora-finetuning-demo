@@ -216,3 +216,28 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Modelos y pesos (van a HuggingFace Hub, no a GitHub)
+*.bin
+*.safetensors
+*.pt
+*.ckpt
+
+# Datos grandes
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Caché de HuggingFace
+.cache/
+__pycache__/
+
+# Variables de entorno (tokens, API keys)
+.env
+*.env
+
+# Checkpoints de entrenamiento
+results/
+runs/
+wandb/
