@@ -1,0 +1,9 @@
+
+```bibtex
+@article{hu2021lora,
+  title={LoRA: Low-Rank Adaptation of Large Language Models},
+  author={Hu, Edward J and Shen, Yelong and Wallis, Phillip and Allen-Zhu, Zeyuan
+          and Li, Yuanzhi and Wang, Shean and Wang, Lu and Chen, Weizhu},
+  journal={arXiv preprint arXiv:2106.09685},
+  year={2021}
+}

@@ -18,7 +18,7 @@ documentar cada decisión de diseño, sirviendo como guía para proyectos de tit
 | Fase | Estado |
 |------|--------|
 | Repositorio y estructura | ✅ En curso |
-| Lectura del paper (LoRA/QLoRA) | ⬜ Pendiente |
+| Lectura del paper (LoRA/QLoRA) | 🟡 En curso |
 | Curación del corpus | ⬜ Pendiente |
 | Baseline (modelo sin fine-tuning) | ⬜ Pendiente |
 | Fine-tuning con LoRA | ⬜ Pendiente |
@@ -76,3 +76,5 @@ Si usas este material en tu propio proyecto, cita los papers originales:
   year={2023}
 }
 ```
+
+
