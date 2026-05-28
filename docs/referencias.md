@@ -7,3 +7,10 @@
   journal={arXiv preprint arXiv:2106.09685},
   year={2021}
 }
+
+@article{dettmers2023qlora,
+  title={QLoRA: Efficient Finetuning of Quantized LLMs},
+  author={Dettmers, Tim and Pagnoni, Artidoro and Holtzman, Ari and Zettlemoyer, Luke},
+  journal={arXiv preprint arXiv:2305.14314},
+  year={2023}
+}
